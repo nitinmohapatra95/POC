@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="1.23" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="1.745" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\nmohapat\AppData\Local\Temp\surefire2877012497681497995\surefirebooter1472650627107302354.jar C:\Users\nmohapat\AppData\Local\Temp\surefire2877012497681497995 2020-08-12T12-46-56_087-jvmRun1 surefire6718195987864306147tmp surefire_06014219146000315985tmp"/>
+    <property name="sun.java.command" value="C:\Users\nmohapat\AppData\Local\Temp\surefire3689904809058468404\surefirebooter3390026209397969344.jar C:\Users\nmohapat\AppData\Local\Temp\surefire3689904809058468404 2020-08-13T08-14-55_209-jvmRun1 surefire1631091557964734140tmp surefire_07279373336130025134tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\nmohapat\eclipse-workspace\Hello\target\test-classes;C:\Users\nmohapat\eclipse-workspace\Hello\target\classes;C:\Users\nmohapat\.m2\repository\org\testng\testng\6.10\testng-6.10.jar;C:\Users\nmohapat\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar;C:\Users\nmohapat\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.21.0\surefire-testng-utils-2.21.0.jar;C:\Users\nmohapat\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.21.0\surefire-grouper-2.21.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\nmohapat"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\nmohapat\AppData\Local\Temp\surefire2877012497681497995\surefirebooter1472650627107302354.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\nmohapat\AppData\Local\Temp\surefire3689904809058468404\surefirebooter3390026209397969344.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="test" classname="testCases.TestCase" time="0.02"/>
+  <testcase name="test" classname="testCases.TestCase" time="0.025"/>
 </testsuite>

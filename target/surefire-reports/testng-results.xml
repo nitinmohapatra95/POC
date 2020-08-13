@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Proof" duration-ms="54" started-at="2020-08-12T07:17:03Z" finished-at="2020-08-12T07:17:03Z">
+  <suite name="TestNG Suite" duration-ms="67" started-at="2020-08-13T02:44:57Z" finished-at="2020-08-13T02:44:57Z">
     <groups>
     </groups>
-    <test name="Poc" duration-ms="54" started-at="2020-08-12T07:17:03Z" finished-at="2020-08-12T07:17:03Z">
+    <test name="Test" duration-ms="67" started-at="2020-08-13T02:44:57Z" finished-at="2020-08-13T02:44:57Z">
       <class name="testCases.TestCase">
-        <test-method status="PASS" signature="test()[pri:0, instance:testCases.TestCase@4563e9ab]" name="test" duration-ms="19" started-at="2020-08-12T12:47:03Z" finished-at="2020-08-12T12:47:03Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:testCases.TestCase@4563e9ab]" name="test" duration-ms="26" started-at="2020-08-13T08:14:57Z" finished-at="2020-08-13T08:14:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- testCases.TestCase -->
-    </test> <!-- Poc -->
-  </suite> <!-- Proof -->
+    </test> <!-- Test -->
+  </suite> <!-- TestNG Suite -->
 </testng-results>
